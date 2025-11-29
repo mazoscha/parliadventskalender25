@@ -22,7 +22,7 @@ body {
       
       border-radius: 5px;
       border:dotted;
-      font-size: 55px;
+      font-size: 30px;
       font-weight: bold;
       font-family: 'Courier New', monospace;
       text-decoration: none;
@@ -61,4 +61,5 @@ body {
         grid-template-columns: repeat(6, 1fr);
     }
 }
+
 
