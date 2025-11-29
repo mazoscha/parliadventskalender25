@@ -33,9 +33,8 @@ body {
 }
 
 .button:hover {
-  background-image:url("background/pingi.jpg");
-  background-position: center;
-  color:transparent;
+  background-color: #ffeb11; 
+  color:#2b00c6;
   
 }
 
@@ -67,6 +66,7 @@ body {
         grid-template-columns: repeat(6, 1fr);
     }
 }
+
 
 
 
